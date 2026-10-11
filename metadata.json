@@ -1,0 +1,6 @@
+{
+  "name": "Tenant AI — Enterprise Workspace & Governance",
+  "description": "Formal multi-tenant enterprise AI knowledge platform featuring isolated organization vaults, dedicated user profiles, grounded document retrieval, and a comprehensive administrative governance dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
